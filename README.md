@@ -48,7 +48,12 @@ Add an example of how this would apply to a software team.
 
 Can you think of an example in your current role where hypothesis testing would be useful? What would be the alternative hypothesis?
 
+Do I have a volunteer to explain what the null and alternative hypotheses are? (if not, choose someone)
+
 
 ## Questions for feedback and reflection
+- Were there any specific opportunities for student engagement/clarification that I missed?
 
 ## Other questions:
+- How much of the curriculum that I would be teaching is business concepts vs software concepts?
+- Is there a specific stack taught within the bootcamp? What is it? 
