@@ -53,7 +53,27 @@ Do I have a volunteer to explain what the null and alternative hypotheses are? (
 
 ## Questions for feedback and reflection
 - Were there any specific opportunities for student engagement/clarification that I missed?
+- If you were a student, would you have felt comfortable asking a question?
+- How was the pace of the lesson?
+
+Feedback:
+- Good baseline expectations
+- Speed and clarity good 
+- Short goals
+- Good content transitions
+- Implementation of feedback
+- using the student's feedback
+
+- Add some community building
+- activating prior knowledge 
+- More visual cues
+    - Add specific questions
+    - add examples to slides
+
+
+
 
 ## Other questions:
 - How much of the curriculum that I would be teaching is business concepts vs software concepts?
 - Is there a specific stack taught within the bootcamp? What is it? 
+- how do you recruit/find students?
